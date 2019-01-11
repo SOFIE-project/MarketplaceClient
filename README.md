@@ -6,4 +6,5 @@ Usability tests can be seen in folder client/videotests
 
 ### Usage
 1. Set correct account and contract address in /src/components/FlowerContract.js
-2. Run with npm start
+2. npm install
+3. Run with npm start
